@@ -1,0 +1,17 @@
+{
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.printWidth": 120,
+    "editor.formatOnType": true,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.semicolons": "insert",
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "typescript.tsserver.maxTsServerMemory": 4096,
+    "javascript.format.semicolons": "insert",
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.suggest.completeFunctionCalls": true
+}
